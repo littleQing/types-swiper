@@ -1,0 +1,36 @@
+{
+  "_from": "@types/swiper@^1.0.0",
+  "_id": "@types/swiper@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-QPZRgxZ+ivXXtzV43B3LxpXUIC7FE/EoKM+rtxngmgt2M7eeUYypZhyqZD8UxJtlBcUDw/ATGoVeSNpvBBrz2w==",
+  "_location": "/@types/swiper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/swiper@^6.0.0",
+    "name": "@types/swiper",
+    "escapedName": "@types%2fswiper",
+    "scope": "@types",
+    "rawSpec": "^6.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^6.0.0"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "swiper": "*"
+  },
+  "deprecated": "This is a stub types definition. swiper provides its own type definitions, so you do not need this installed.",
+  "description": "Stub TypeScript definitions entry for swiper, which provides its own types definitions",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/swiper",
+  "scripts": {},
+  "typings": null,
+  "version": "1.0.0"
+}
